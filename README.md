@@ -8,11 +8,11 @@
 - Enabled user-driven analysis with filters and slicers for deep drill-downs and customized views.
 - Created data connections, joins, and calculated fields to enhance insights and make the data more actionable.
 - Designed rich visualizations including:
-- 📊 Stacked Bar Charts
-- 🍩 Donut Charts
-- 🏛️ Stacked Column Charts
-- 📇 Cards (KPIs)
-- 🎛️ Slicers
+  - 📊 Stacked Bar Charts
+  - 🍩 Donut Charts
+  - 🏛️ Stacked Column Charts
+  - 📇 Cards (KPIs)
+  - 🎛️ Slicers
 
 **🛠️ Technologies Used**
 - Power BI Desktop
