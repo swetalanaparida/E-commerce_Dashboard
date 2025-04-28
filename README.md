@@ -15,8 +15,8 @@
 🎛️ Slicers
 
 **🛠️ Technologies Used**
-Power BI Desktop
-CSV Files (Orders, Details)
+- Power BI Desktop
+- CSV Files (Orders, Details)
 
 **📸 Dashboard Preview**
 
